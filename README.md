@@ -1,3 +1,5 @@
+[![Build Status](https://cloud.drone.io/api/badges/mxssl/binary-search-tree/status.svg)](https://cloud.drone.io/mxssl/binary-search-tree)
+
 # Binary Search Tree
 
 [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree) implementation in Go (Golang).
